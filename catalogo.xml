@@ -5,7 +5,7 @@
     <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
     <materia tipo="genero">Novela española</materia>
-    <year>1614</year>
+    <fechapublicacion>1614</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/el-amante-liberal--5/</url>
   </obra>
   <obra>
@@ -13,7 +13,7 @@
     <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
     <materia tipo="genero">Teatro español</materia>
-    <year>1615</year>
+    <fechapublicacion>1615</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/los-banos-de-argel--1/</url>
   </obra>
   <obra>
@@ -21,7 +21,7 @@
     <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
     <materia tipo="genero">Teatro español</materia>
-    <year>1615</year>
+    <fechapublicacion>1615</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/la-casa-de-los-zelos--0/</url>
   </obra>  
   <obra>
@@ -29,7 +29,7 @@
     <autor>Miguel de Cervantes</autor>
     <pais>Madrid</pais>
     <materia tipo="genero">Novela española</materia>
-    <year>1613</year>
+    <fechapublicacion>1613</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/el-casamiento-enganoso--1/</url>
   </obra>  
   <obra>
@@ -37,7 +37,7 @@
     <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
     <materia tipo="genero">Teatro español</materia>
-    <year>1619</year>
+    <fechapublicacion>1619</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/al-pasar-del-arroyo-comedia-famosa--0/</url>
   </obra>
   <obra>
@@ -45,7 +45,7 @@
     <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
     <materia>Teatro español</materia>
-    <year>1620</year>
+    <fechapublicacion>1620</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/las-almenas-de-toro-comedia-famosa--0/</url>
   </obra>  
   <obra>
@@ -53,7 +53,7 @@
     <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
     <materia>Teatro español</materia>
-    <year>1620</year>
+    <fechapublicacion>1620</fechapublicacion>
     <url>http://www.cervantesvirtual.com/obra/los-amantes-sin-amor-comedia-famosa--0/</url>
   </obra>
   <obra>
@@ -61,7 +61,7 @@
     <autor fechaNacimiento="1561">Luis de Góngora y Argote</autor>
     <pais>Madrid</pais>
     <materia>Poesía lírica española</materia>
-    <year>1612</year>
+    <fechapublicacion>1612</fechapublicacion>
     <url>http://www.cervantesvirtual.com/portales/luis_de_gongora/obra/fabula-de-polifemo-y-galatea--0/</url>
   </obra>
 </catalogo>
