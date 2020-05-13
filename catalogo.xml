@@ -2,67 +2,67 @@
 <catalogo>
   <obra>
     <titulo>El amante liberal</titulo>
-    <autor>Miguel de Cervantes</autor>
+    <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
-    <materia>Novela española</materia>
+    <materia tipo="genero">Novela española</materia>
     <year>1614</year>
-	<url>http://www.cervantesvirtual.com/obra/el-amante-liberal--5/</url>
+    <url>http://www.cervantesvirtual.com/obra/el-amante-liberal--5/</url>
   </obra>
   <obra>
     <titulo>Los baños de Argel</titulo>
-    <autor>Miguel de Cervantes</autor>
+    <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
-    <materia>Teatro español</materia>
+    <materia tipo="genero">Teatro español</materia>
     <year>1615</year>
-	<url>http://www.cervantesvirtual.com/obra/los-banos-de-argel--1/</url>
+    <url>http://www.cervantesvirtual.com/obra/los-banos-de-argel--1/</url>
   </obra>
   <obra>
     <titulo>La casa de los celos</titulo>
-    <autor>Miguel de Cervantes</autor>
+    <autor fechaNacimiento="1547">Miguel de Cervantes</autor>
     <pais>Madrid</pais>
-    <materia>Teatro español</materia>
+    <materia tipo="genero">Teatro español</materia>
     <year>1615</year>
-	<url>http://www.cervantesvirtual.com/obra/la-casa-de-los-zelos--0/</url>
+    <url>http://www.cervantesvirtual.com/obra/la-casa-de-los-zelos--0/</url>
   </obra>  
   <obra>
     <titulo>El casamiento engañoso</titulo>
     <autor>Miguel de Cervantes</autor>
     <pais>Madrid</pais>
-    <materia>Novela española</materia>
+    <materia tipo="genero">Novela española</materia>
     <year>1613</year>
-	<url>http://www.cervantesvirtual.com/obra/el-casamiento-enganoso--1/</url>
+    <url>http://www.cervantesvirtual.com/obra/el-casamiento-enganoso--1/</url>
   </obra>  
   <obra>
     <titulo>Al pasar del arroyo : comedia famosa</titulo>
-    <autor>Lope de Vega</autor>
+    <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
-    <materia>Teatro español</materia>
+    <materia tipo="genero">Teatro español</materia>
     <year>1619</year>
-	<url>http://www.cervantesvirtual.com/obra/al-pasar-del-arroyo-comedia-famosa--0/</url>
+    <url>http://www.cervantesvirtual.com/obra/al-pasar-del-arroyo-comedia-famosa--0/</url>
   </obra>
   <obra>
     <titulo>Las almenas de Toro : comedia famosa</titulo>
-    <autor>Lope de Vega</autor>
+    <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
     <materia>Teatro español</materia>
     <year>1620</year>
-	<url>http://www.cervantesvirtual.com/obra/las-almenas-de-toro-comedia-famosa--0/</url>
+    <url>http://www.cervantesvirtual.com/obra/las-almenas-de-toro-comedia-famosa--0/</url>
   </obra>  
   <obra>
     <titulo>Los amantes sin amor : comedia famosa</titulo>
-    <autor>Lope de Vega</autor>
+    <autor fechaNacimiento="1562">Lope de Vega</autor>
     <pais>Madrid</pais>
     <materia>Teatro español</materia>
     <year>1620</year>
-	<url>http://www.cervantesvirtual.com/obra/los-amantes-sin-amor-comedia-famosa--0/</url>
+    <url>http://www.cervantesvirtual.com/obra/los-amantes-sin-amor-comedia-famosa--0/</url>
   </obra>
   <obra>
     <titulo>Fábula de Polifemo y Galatea</titulo>
-    <autor>Luis de Góngora y Argote</autor>
+    <autor fechaNacimiento="1561">Luis de Góngora y Argote</autor>
     <pais>Madrid</pais>
     <materia>Poesía lírica española</materia>
     <year>1612</year>
-	<url>http://www.cervantesvirtual.com/portales/luis_de_gongora/obra/fabula-de-polifemo-y-galatea--0/</url>
+    <url>http://www.cervantesvirtual.com/portales/luis_de_gongora/obra/fabula-de-polifemo-y-galatea--0/</url>
   </obra>
 </catalogo>
 
