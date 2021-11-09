@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+ <libro>
+   <titulo>Título 1</titulo>
+   <descripcion>Libro 1.</descripcion>
+   <url>http://www.cervantesvirtual.com/1</url>
+ </libro>
+ <libro>
+   <titulo>Título 3</titulo>
+   <descripcion>Libro 3.</descripcion>
+   <url>http://www.cervantesvirtual.com/3</url>
+ </libro>
+</biblioteca>
