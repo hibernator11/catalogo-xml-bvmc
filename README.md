@@ -3,4 +3,4 @@ Este material propociona un catálogo de metadatos descrito en XML que incorpora
 
 
 ## Validar XML con XSD Shema 
-Los ficheros biblioteca.xml y biblioteca.xsd se pueden utilizar como ejemplo de validación de un fichero XML con XSD Schema.
+Los ficheros biblioteca.xml y biblioteca.xsd se pueden utilizar como ejemplo de validación de un fichero XML con XSD Schema. Es posible utilizar cualquier servicio online como https://www.freeformatter.com/xml-validator-xsd.html.
