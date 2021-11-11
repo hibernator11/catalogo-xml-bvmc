@@ -1,0 +1,17 @@
+     Ejemplos adicionales de XSLT
+     
+     <xsl:template match="poema">
+           <p><xsl:value-of select="titulo" /></p>
+      </xsl:template>
+
+
+     <xsl:template match="/">
+           <xsl:for-each select="//estrofa/verso" >
+            <p><xsl:value-of select="."/></p> 
+           </xsl:for-each>
+      </xsl:template>
+
+
+     <xsl:template match="/">
+           <xsl:value-of select="//verso[1]" />
+      </xsl:template>
